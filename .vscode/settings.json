@@ -1,0 +1,11 @@
+{
+    "chat.mcp.serverSampling": {
+        
+    },
+    "github.copilot.advanced": {
+        
+    },
+    "github.copilot.chat.scopeSelection": true,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "github.copilot.chat.codesearch.enabled": true
+}

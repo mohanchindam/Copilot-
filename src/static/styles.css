@@ -90,6 +90,9 @@ section h3 {
   color: #666;
   font-size: 0.9em;
   padding: 2px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .activity-card .participants li::before {
@@ -175,4 +178,20 @@ footer {
   margin-top: 30px;
   padding: 20px;
   color: #666;
+}
+
+.unregister-btn {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 2px 8px;
+  font-size: 0.8em;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-left: 10px;
+  transition: background-color 0.2s;
+}
+
+.unregister-btn:hover {
+  background-color: #d32f2f;
 }
